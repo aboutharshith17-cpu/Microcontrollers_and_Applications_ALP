@@ -1,6 +1,6 @@
 # 8051 Microcontrollers - V Semester Programs
 
-This repository contains the 21 8051 Assembly Language Programs extracted from the uploaded **Microcontrollers Record - V SEM** PDF.
+This repository contains the 21 8051 Assembly Language Programs.
 
 ## Repository structure
 
