@@ -1,3 +1,7 @@
+# HandWritten Record
+  IF YOU REQUIRE MY ORIGINAL HANDWRITTEN RECORD FOR REFERENCE, PLEASE CONTACT ME VIA EMAIL: 
+  thenameisharsh17@gmail.com
+  
 # Source notes and transcription decisions
 
 The uploaded PDF contains 21 scanned pages. The pages are image-based, so the handwritten assembly was transcribed from the page images.
